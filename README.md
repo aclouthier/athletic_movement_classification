@@ -10,6 +10,9 @@ of data using DNNs previously trained on subsets of the sIMU data.
 movement_screen_data.pickle contains the simulated IMU data all 13 body segments 
 for three athletes performing 13 athletic tasks. 
 
+DNN architecture is based on: 
+    Ordóñez, F. J., and Roggen, D. (2016). Deep convolutional and LSTM recurrent neural networks for multimodal wearable activity recognition. Sensors (Switzerland) 16, 115. doi:10.3390/s16010115.
+
 Tested using:
     
     Python 3.7.3
