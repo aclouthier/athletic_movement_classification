@@ -1,5 +1,7 @@
 # athletic_movement_classification
 
+[![DOI](https://zenodo.org/badge/213980804.svg)](https://zenodo.org/badge/latestdoi/213980804)
+
 Sensor data required for automatic recognition of athletic tasks using deep neural networks.
 
 Authors: AL Clouthier, GB Ross, RB Graham
